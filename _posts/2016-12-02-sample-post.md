@@ -11,7 +11,7 @@ image:
     creditlink: http://www.dargadgetz.com/ios-8-abstract-wallpaper-pack-for-iphone-5s-5c-and-ipod-touch-retina/
 ---
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+Reaction videos from YouTube provide a range of possibilities when looking to investigate human behavior. This research aims to present a method of creating Spontaneous Facial Expression dataset from YouTube reaction videos. In this work, we use Convolutional Neural Networks to classify emotions in facial  expressions, as well as feature extraction tools to support this classication. In order to understand the behavior of faces that react to a given group video, Concordance and Continuity analyzes were designed to identify spontaneous emotions that cannot be classied by Neural Networks with a high degree of assertiveness. Also, check whether people in the same group react in similar ways and whether each face maintains its emotion moments before and after the time under analysis. It was identied that only 26% of the total amount of faces react in similar ways, however 71% of the faces keep their emotion between transitions of a given moment of reaction, although not in the best frame.
 
 <!-- # Heading 1 -->
 

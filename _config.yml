@@ -28,6 +28,8 @@ menu:
     url: '/'
   - title: 'Dataset'
     url: '/'
+  - title: 'About'
+    url: '/about'
   #   type: 'categories'
   # - title: 'Favorites'
   #   url: '#'
