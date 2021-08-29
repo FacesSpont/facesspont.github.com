@@ -5,7 +5,7 @@ description:      Describe your website here.
 disqus_shortname:
 reading_time:     true # if true, shows the estimated reading time for a post
 words_per_minute: 200
-logo:             images/logo.png # logo visible in the topbar
+logo:             images/logo_youtube.png # logo visible in the topbar
 excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
@@ -20,22 +20,22 @@ url: https://facesspont.github.io/
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Install'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme#installation'
-  - title: 'Tags'
-    url: '/tags'
-  - title: 'Categories'
-    url: '/categories'
-    type: 'categories'
-  - title: 'Favorites'
-    url: '#'
-    submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+  - title: 'Method'
+    url: '/'
+  - title: 'Analysis'
+    url: '/'
+  - title: 'Results'
+    url: '/'
+  - title: 'Dataset'
+    url: '/'
+  #   type: 'categories'
+  # - title: 'Favorites'
+  #   url: '#'
+  #   submenu:
+  #     - title: 'Code Highlighter'
+  #       url: '/intro/code-highlighting-post/'
+  #     - title: 'Sample Post'
+  #       url: '/intro/sample-post/'
 
 # Owner/author information
 owner:
